@@ -3,3 +3,6 @@
 
 ### virtual env ###
 myenv
+
+### library ###
+__pycache__
